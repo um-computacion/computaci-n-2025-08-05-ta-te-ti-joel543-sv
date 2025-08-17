@@ -1,0 +1,88 @@
+# ==============================
+# Archivos de Python
+# ==============================
+
+# Carpetas de bytecode compilado automáticamente por Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# ==============================
+# Tests y Cobertura
+# ==============================
+
+# Archivos generados por unittest, pytest o coverage
+.coverage
+.coverage.*
+htmlcov/
+.pytest_cache/
+nosetests.xml
+coverage.xml
+*.cover
+*.py,cover
+
+# ==============================
+# Entornos virtuales
+# ==============================
+
+# Para evitar subir dependencias y bins de entornos virtuales
+.env
+.venv
+env/
+venv/
+ENV/
+env.bak/
+venv.bak/
+
+# ==============================
+# Logs y bases de datos locales
+# ==============================
+
+*.log
+db.sqlite3
+db.sqlite3-journal
+
+# ==============================
+# IDEs y editores
+# ==============================
+
+# PyCharm
+.idea/
+
+# VSCode
+.vscode/
+
+# Spyder
+.spyderproject
+.spyproject
+
+# ==============================
+# Documentación
+# ==============================
+
+# Archivos de Sphinx o build de docs
+docs/_build/
+
+# ==============================
+# Distribución/paquetes
+# ==============================
+
+build/
+dist/
+*.egg-info/
+.eggs/
+*.egg
+*.manifest
+*.spec
+wheels/
+share/python-wheels/
+
+# ==============================
+# Otros
+# ==============================
+
+# Configuración de Ruff (linting)
+.ruff_cache/
+
+# Archivos de configuración de PyPI
+.pypirc
