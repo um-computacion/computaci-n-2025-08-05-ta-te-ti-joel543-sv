@@ -1,4 +1,5 @@
-Alumno: Joel Reynoso  Legajo:62300
+**Alumno:** Joel Reynoso  Legajo:62300
+## Estructura del Proyecto
 
 ├── src/
 │   ├── __init__.py
@@ -14,4 +15,5 @@ Alumno: Joel Reynoso  Legajo:62300
 ├── main.py                # Punto de entrada del juego
 ├── run_tests.py           # Ejecutor de pruebas
 └── README.md
+
 
