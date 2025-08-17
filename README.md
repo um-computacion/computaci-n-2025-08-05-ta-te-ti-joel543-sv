@@ -1,3 +1,5 @@
+Alumno: Joel Reynoso  Legajo:62300
+
 ├── src/
 │   ├── __init__.py
 │   ├── participante.py    # Clase Participante
@@ -12,3 +14,4 @@
 ├── main.py                # Punto de entrada del juego
 ├── run_tests.py           # Ejecutor de pruebas
 └── README.md
+
